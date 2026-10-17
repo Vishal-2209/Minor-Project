@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data & Datasets
+data/
+iSAID5i/
+*.tar.gz
+*.zip
+
+# Model Checkpoints & Weights
+checkpoints/
+*.pt
+*.pth
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
